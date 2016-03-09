@@ -1,0 +1,1 @@
+{"name":"cordovacam.mycompany","version":"0.0.1","title":"CordovaCam","hooks":{"cordova":{"desktop":"cordova.desktop","apparmor":"apparmor.json"}},"maintainer":"Apache Cordova Team <myname@mycompany.com>","description":"A sample Apache Cordova application that responds to the deviceready event."}

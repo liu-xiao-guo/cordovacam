@@ -1,0 +1,7 @@
+/home/liuxg/release/cordovacam/platforms/ubuntu/ubuntu-sdk-14.10/armhf/build/CMakeFiles/copy_wwwqmlxml.dir
+/home/liuxg/release/cordovacam/platforms/ubuntu/ubuntu-sdk-14.10/armhf/build/CMakeFiles/cordova-ubuntu.dir
+/home/liuxg/release/cordovacam/platforms/ubuntu/ubuntu-sdk-14.10/armhf/build/CMakeFiles/cordova-ubuntu_automoc.dir
+/home/liuxg/release/cordovacam/platforms/ubuntu/ubuntu-sdk-14.10/armhf/build/CMakeFiles/cordovaubuntuplugin.dir
+/home/liuxg/release/cordovacam/platforms/ubuntu/ubuntu-sdk-14.10/armhf/build/CMakeFiles/cordovaubuntuplugin_automoc.dir
+/home/liuxg/release/cordovacam/platforms/ubuntu/ubuntu-sdk-14.10/armhf/build/CMakeFiles/coreplugins.dir
+/home/liuxg/release/cordovacam/platforms/ubuntu/ubuntu-sdk-14.10/armhf/build/CMakeFiles/coreplugins_automoc.dir

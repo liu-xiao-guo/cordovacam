@@ -1,0 +1,7 @@
+#loading {
+  position: absolute;
+  left:45%;
+}
+#loaded {
+  display: none;
+}

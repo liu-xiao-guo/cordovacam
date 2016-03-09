@@ -1,0 +1,11 @@
+/home/liuxg/release/cordovacam/platforms/ubuntu/ubuntu-sdk-15.04/armhf/prefix/cordova-ubuntu
+/home/liuxg/release/cordovacam/platforms/ubuntu/ubuntu-sdk-15.04/armhf/prefix/www/libcoreplugins.so
+/home/liuxg/release/cordovacam/platforms/ubuntu/ubuntu-sdk-15.04/armhf/prefix/www/cordova.js
+/home/liuxg/release/cordovacam/platforms/ubuntu/ubuntu-sdk-15.04/armhf/prefix/qml/main.qml
+/home/liuxg/release/cordovacam/platforms/ubuntu/ubuntu-sdk-15.04/armhf/prefix/CordovaUbuntu.4.1/CordovaViewInternal.qml
+/home/liuxg/release/cordovacam/platforms/ubuntu/ubuntu-sdk-15.04/armhf/prefix/CordovaUbuntu.4.1/libcordovaubuntuplugin.so
+/home/liuxg/release/cordovacam/platforms/ubuntu/ubuntu-sdk-15.04/armhf/prefix/CordovaUbuntu.4.1/CordovaView.qml
+/home/liuxg/release/cordovacam/platforms/ubuntu/ubuntu-sdk-15.04/armhf/prefix/CordovaUbuntu.4.1/ItemSelector.qml
+/home/liuxg/release/cordovacam/platforms/ubuntu/ubuntu-sdk-15.04/armhf/prefix/CordovaUbuntu.4.1/cordova_wrapper.js
+/home/liuxg/release/cordovacam/platforms/ubuntu/ubuntu-sdk-15.04/armhf/prefix/CordovaUbuntu.4.1/escape.js
+/home/liuxg/release/cordovacam/platforms/ubuntu/ubuntu-sdk-15.04/armhf/prefix/CordovaUbuntu.4.1/qmldir
